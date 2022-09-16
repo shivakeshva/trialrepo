@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 cat >> file1.txt
@@ -5,3 +6,8 @@ one
 two 
 three
 four
+=======
+the addition is done in github
+second addition
+three
+>>>>>>> refs/remotes/origin/master
